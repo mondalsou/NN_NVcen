@@ -21,7 +21,9 @@ Peroformance:
 * The measured RMSE value for the validation set is in the order of 1.8E-04, which shows the very high accuracy of the predicted Model.
 
 
-Comparison of *Machine Learning Prediction* and *Qunatum Mechanical Simulation* results of D tensor 
+Comparison of *Machine Learning Prediction* and *Qunatum Mechanical Simulation* results of D tensor for different atomic displacement.
+Both i and j of the *Dij* runs from 1 to 3. Nine columns of the figure represent all the 9 elements of D tensor. Each row represents *D* tensor as a function of the atomic displacements for different atoms.
+
 * RED point = Quantum Mechanical Simulation Result
 * BLUE point = Machine Learning Prediction
 
