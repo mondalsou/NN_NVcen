@@ -20,4 +20,4 @@ Details of the Work:
 Peroformance:
 * The measured RMSE value for the validation set is in the order of 1.8E-04, which shows the very high accuracy of the predicted Model.
 
-![alt text]()
+![alt text](https://github.com/mondalsou/NN_NVcen/blob/main/SI-10.png)
