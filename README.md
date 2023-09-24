@@ -15,7 +15,7 @@ Details of the Work:
 * The input layer has N nodes, where N is the number of atoms present in the material.
 * The output layer has 9 nodes which represent the 3x3 D tensor (representing magnetic property)
 * Each hidden layer has a sigmoid as an activation function and L2-regularization.
-* Among 2000 data points, 1600 were used for training and while 400 for validation.
+* Among 2000 data points, 1800 were used for training and while 200 for validation.
 
 Peroformance:
 * The measured RMSE value for the validation set is in the order of 1.8E-04, which shows the very high accuracy of the predicted Model.
